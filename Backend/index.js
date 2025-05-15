@@ -14,8 +14,8 @@ app.use(cors());
 
 
 //  Database Connextion with MongoDB
-// mongoose.connect("mongodb+srv://nidhikalouni:Nidhi@321@cluster0.nturo6q.mongodb.net/e-commerce")
-mongoose.connect("mongodb+srv://Nidhi:Nishu@cluster0.haezthp.mongodb.net/e-commerce")
+// mongoose.connect("mongodb-url-password/e-commerce")
+
 
 // API Creation
 
