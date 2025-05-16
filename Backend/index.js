@@ -14,6 +14,7 @@ app.use(cors());
 
 
 //  Database Connextion with MongoDB
+// just write mongodb connection string here with password
 // mongoose.connect("mongodb-url-password/e-commerce")
 
 
